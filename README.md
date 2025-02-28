@@ -2,6 +2,8 @@
 
 Following along the paper - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (re-implementing it on original machine translation task )
 
+gpt/gpt.py -  GPT-1 architecture 
+
 ## Repository Structure
 
 ```
